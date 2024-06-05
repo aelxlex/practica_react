@@ -1,0 +1,23 @@
+.form-section {
+    display: flex;
+  }
+  
+  
+  .form-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+  }
+  
+  
+.imagen-container {
+    flex: 1;
+}
+  
+.imagen-container img {
+    width: 100%;
+    height: auto;
+}
+  
